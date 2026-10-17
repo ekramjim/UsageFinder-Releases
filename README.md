@@ -8,7 +8,7 @@ This repository hosts the signed and notarized downloads.
 
 **[Download the latest version](https://github.com/ekramjim/UsageFinder-Releases/releases/latest/download/UsageFinder.dmg)** · [All releases](https://github.com/ekramjim/UsageFinder-Releases/releases)
 
-Requires macOS 26 or later on Apple silicon.
+Requires macOS 26 or later (Apple silicon or Intel).
 
 1. Open `UsageFinder.dmg`.
 2. Drag **Usage Finder** to **Applications**.
