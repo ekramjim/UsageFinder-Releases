@@ -22,7 +22,11 @@ A Mac App Store edition is also in public beta on TestFlight.
 
 ## Privacy
 
-Usage Finder reads system statistics locally on your Mac. It collects no data and sends nothing anywhere; the only network request is the daily update check.
+Usage Finder reads system statistics locally on your Mac. It collects no data and sends nothing anywhere; the only network request is the daily update check. Read the full [privacy policy](PRIVACY.md).
+
+## Support
+
+Questions, bugs or ideas: [open an issue](https://github.com/ekramjim/UsageFinder-Releases/issues) or email [ekram@lynksphere.com](mailto:ekram@lynksphere.com).
 
 ---
 
